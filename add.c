@@ -12,6 +12,6 @@ int main() {
     sums = num1 + num2;
     sub=num1-num2;
     printf("The sum of %d and %d is %d.", num1, num2, sum);
-    
+    printf("The sub of %d and %d is %d.", num1, num2, sub); 
     return 0;
 }
